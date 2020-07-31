@@ -44,6 +44,12 @@ header.startup h1 {
   padding: 1rem 2rem; 
 }
 
+#mc_embed_signup form {
+    display: block;
+    position: relative;
+    text-align: center;
+    padding: 10px 0 10px 3%;
+}
 .btn-primary {
   background-color: #F05F44;
   border-color: #F05F44; }
