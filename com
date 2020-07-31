@@ -6,12 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="lamborghini.css">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="lamborghini.css">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- <div class="min-vw-100">Min-width 100vw</div>
-    <div class="min-vh-100">Min-height 100vh</div>
-    <div class="vw-100">Width 100vw</div>
-    <div class="vh-100">Height 100vh</div> -->
-
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
 </head>
 <body>
      <body>
@@ -28,7 +23,7 @@
           	<!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{clear:none; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
