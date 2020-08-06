@@ -4,7 +4,7 @@ body,html{
 }
 
 body{
-	font-family: "Times New Roman",Ariel;
+	font-family: "Times New Roman",Arial;
 }
 
 hr {
@@ -14,13 +14,14 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.8); 
+  color: rgba(123 73 73 / 80%); 
 }
 
 header.startup {
   background-position: center;
   background-image: url("lamborghini.jpeg");
   background-size: cover;
+  width: auto;
   height: 100%;
 }
 
@@ -38,6 +39,7 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  text-align: right;
 }
 
 .btn-xl {
